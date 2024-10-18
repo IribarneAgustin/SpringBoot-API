@@ -22,4 +22,5 @@ The API is live at: https://challenge-lively-forest-2663.fly.dev
 - **Java 17**
 - **Spring Boot 3.3.4**
 - **Swagger** (OpenAPI 3)
+- **Docker**
 - **Fly.io**
